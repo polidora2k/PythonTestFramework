@@ -1,0 +1,35 @@
+2021-06-25 12:45:23,490 :INFO : test_end2end :Selected Matching Product: Blackberry
+2021-06-25 12:45:23,618 :INFO : test_end2end :Setting text to ind
+2021-06-25 12:45:28,951 :INFO : test_end2end :Matching text found.
+2021-06-25 12:45:29,180 :INFO : test_end2end :Alert text: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-25 16:29:22,450 :INFO : test_end2end :Selected Matching Product: Blackberry
+2021-06-25 16:29:22,581 :INFO : test_end2end :Setting text to ind
+2021-06-25 16:29:27,909 :INFO : test_end2end :Matching text found.
+2021-06-25 16:29:28,103 :INFO : test_end2end :Alert text: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-25 16:31:29,577 :INFO : test_end2end :Selected Matching Product: Blackberry
+2021-06-25 16:31:29,713 :INFO : test_end2end :Setting text to ind
+2021-06-25 16:31:35,044 :INFO : test_end2end :Matching text found.
+2021-06-25 16:31:35,265 :INFO : test_end2end :Alert text: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-25 16:33:56,012 :INFO : test_end2end :Selected Matching Product: Blackberry
+2021-06-25 16:33:56,132 :INFO : test_end2end :Setting text to ind
+2021-06-25 16:34:01,450 :INFO : test_end2end :Matching text found.
+2021-06-25 16:34:01,635 :INFO : test_end2end :Alert text: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-25 16:37:03,806 :INFO : test_end2end :Selected Matching Product: Blackberry
+2021-06-25 16:37:03,968 :INFO : test_end2end :Setting text to ind
+2021-06-25 16:37:09,357 :INFO : test_end2end :Matching text found.
+2021-06-25 16:37:09,595 :INFO : test_end2end :Alert text: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-25 16:38:41,731 :INFO : test_end2end :Selected Matching Product: Blackberry
+2021-06-25 16:38:41,874 :INFO : test_end2end :Setting text to ind
+2021-06-25 16:38:47,242 :INFO : test_end2end :Matching text found.
+2021-06-25 16:38:47,456 :INFO : test_end2end :Alert text: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-25 17:13:17,896 :INFO : test_end2end :Selected Matching Product: Blackberry
+2021-06-25 17:13:18,027 :INFO : test_end2end :Setting text to ind
+2021-06-25 17:13:23,465 :INFO : test_end2end :Matching text found.
+2021-06-25 17:13:23,716 :INFO : test_end2end :Alert text: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
